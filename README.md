@@ -2,11 +2,12 @@
 
 # Beginnings & Endings
 
-Single page on the shut down of the Beginnings & Endings app.
+Single page on the shut down of the Beginnings & Endings app, powered by Vite. Deployment uses [Cloudflare Pages](https://pages.cloudflare.com/).
 
 ## Getting started
 
 ```
+npm install
 npm run dev
 npm run deploy
 ```
