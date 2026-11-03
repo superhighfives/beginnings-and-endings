@@ -2,14 +2,20 @@
 
 # Beginnings & Endings
 
-> 🚨 **Note:** It's been a long time since this project was built, and the underlying technologies have changed. A lot. Because of that, this project no longer runs. [Beginnings & Endings](https://beginnings.wearebrightly.com/) is now a simple landing page explaining what happened, [but you can find the original repo here](https://github.com/superhighfives/beginnings-and-endings-archive).
+A musical pyramid scheme for the launch of Beginnings & Endings, the album by my band Brightly. You shared the single, "Preflight Nerves", in exchange for a copy of the album, and a world map tracked where it spread.
 
-Single page on the shut down of the Beginnings & Endings app, powered by Vite. Deployment uses [Cloudflare Pages](https://pages.cloudflare.com/).
+Status: archived. Made in 2013, not maintained. The original app no longer runs, so what's deployed today is a single page, built with Vite, explaining what happened. This repo is that page. The original Rails app lives in [superhighfives/beginnings-and-endings-archive](https://github.com/superhighfives/beginnings-and-endings-archive).
+
+Live: https://beginnings.wewerebrightly.com/
 
 ## Getting started
 
-```
+```shell
 npm install
 npm run dev
 npm run deploy
 ```
+
+## Deployment
+
+Deployment uses [Cloudflare Pages](https://pages.cloudflare.com/).
